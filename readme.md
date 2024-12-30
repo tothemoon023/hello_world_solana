@@ -1,0 +1,1 @@
+This is a project on solana using rust.
